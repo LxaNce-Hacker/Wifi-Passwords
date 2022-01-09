@@ -1,4 +1,4 @@
-# LxaNce
+# LxaNce👸🤴
 # Pc Wifi-Passwords 
 
 # Copy and Run this 👇 script in Powershell as Administrator
